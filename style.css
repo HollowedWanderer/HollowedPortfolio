@@ -15,6 +15,10 @@ body{
 
 }
 
+h1,.white{
+    color: #fff;
+}
+
 h2,.white{
     color: #fff;
 }
