@@ -6,11 +6,6 @@
     grid-template-columns: repeat(2,1fr);
 }
 
-.grid-2v{
-    display: grid;
-    grid-template-columns: repeat(1,2fr);
-}
-
 body{
     margin: 0;
     padding: 0;
